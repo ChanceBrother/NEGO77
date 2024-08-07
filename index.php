@@ -1,5 +1,4 @@
 <?php
-?>
 <!doctype html>
 <html ⚡ lang="id">
     <head>
@@ -116,3 +115,4 @@
         </footer>
     </body>
 </html>
+?>
